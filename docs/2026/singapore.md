@@ -38,7 +38,7 @@ date: 2026-9-11
 - 回程：EW14(Raffles Place) => EW10
 
 {: .note-title}
->D2：9/29(二) 小印度區、阿拉伯區、福康寧公園、克拉碼頭 }
+>D2：9/29(二) 小印度區、阿拉伯區、福康寧公園、克拉碼頭
 
 - 去程：EW10(Kallang) => EW12/DT14(Bugis) => DT12(Little India)<br>
 - 回程：EW13(City Hall) => EW10
