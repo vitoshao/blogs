@@ -14,7 +14,7 @@ layout: minimal
 >2.	出發兩週前，請務必透過<a href='https://evisa.imigrasi.go.id/' target='_blank'>印尼移民總局官方電子簽證系統</a>，申請電子落地簽證，費用為 500,000 印尼盾。
 >3.	不論有無辦理簽證，所有旅客皆須在抵達前3日內，於<a href='https://allindonesia.imigrasi.go.id/' target='_blank'>印尼 All Indonesia 入境整合系統</a> 填報電子入境卡。
 
-## :airplane:機票
+## :airplane: 機票
 
 | 日期      | 起飛機場               | 抵達機場               | 航班                  | 備註  |
 | ------- | ------------------ | ------------------ | ------------------- | ----- | --- |
@@ -23,7 +23,7 @@ layout: minimal
 | 9/25(五) | 15:30 (SUB) 泗水     | 18:00 (LBJ) 下拉布安   | Super Air Jet IU726 |    |
 | 9/27(日) | 19:40 (LBJ) 下拉布安   | 23:05 (SIN) 新加坡 T1 | 酷航 TR291            |    |
 
-## :house:住宿
+## :house: 住宿
 
 | 天數  | 日期      | 飯店                              | 備註  |
 | --- | ------- | ------------------------------- | --- |
@@ -40,7 +40,7 @@ layout: minimal
 - [https://www.instagram.com/bromo_taxi](https://www.instagram.com/bromo_taxi)
 
 
-## :point_right:預計行程
+## :point_right: 預計行程
 
 <a target="_blank" href="https://www.google.com/maps/d/u/0/edit?hl=zh-TW&mid=1500EQPAFd5EwgOvuXk6xwUAw9wq4Hxk&ll=-7.486363207089822%2C113.95814517274218&z=8">Google 地圖</a>
 
