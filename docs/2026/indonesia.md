@@ -6,6 +6,8 @@ nav_exclude: true
 layout: minimal
 ---
 
+# 東爪哇海陸探險趣
+
 {: .warning-title}
 >注意事項
 >1.	請自行購買旅斿平安險或旅遊不便險
