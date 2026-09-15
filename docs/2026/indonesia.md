@@ -1,8 +1,9 @@
 ---
 title: 東爪哇海陸探險趣
-layout: default
 description: "東爪哇海陸探險趣"
 date: 2026-9-11
+nav_exclude: true
+layout: minimal
 ---
 
 {: .warning-title}

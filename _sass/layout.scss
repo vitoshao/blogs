@@ -65,13 +65,13 @@
 }
 
 .main-content-wrap {
-  padding-top: 0;
+  padding-top: 7px;
   padding-bottom: $gutter-spacing-sm;
 
   @include container;
 
   @include mq(md) {
-    padding-top: 0;
+    padding-top: 7px;
     padding-bottom: $gutter-spacing;
   }
 }
@@ -106,7 +106,7 @@
 
   @include mq(md) {
     display: block;
-    padding-top: $sp-8;
+    padding-top: 10px;
     padding-bottom: $gutter-spacing-sm;
     overflow-y: auto;
     flex: 1 1 auto;

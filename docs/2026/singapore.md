@@ -1,6 +1,5 @@
 ---
 title: 新加坡
-layout: default
 description: "新加坡"
 date: 2026-9-11
 ---
