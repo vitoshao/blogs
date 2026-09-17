@@ -1,12 +1,8 @@
 ---
 title: Markdown 語法
-layout: default
-parent: MISC
-nav_order: 1
 description: "常用 Markdown 語法"
-date: 2025-01-24
-tags:
-  - Markdown
+layout: default
+nav_exclude: true
 ---
 # 快速在 vs 撰寫 markdown 文件
 

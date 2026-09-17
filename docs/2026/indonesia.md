@@ -1,9 +1,10 @@
 ---
-title: 東爪哇海陸探險趣
+title: 東爪哇探險 行程計劃
 description: "東爪哇海陸探險趣"
-date: 2026-9-11
-nav_exclude: true
+parent: 2026
 layout: minimal
+date: 2026-9-11
+
 ---
 
 # 東爪哇海陸探險趣
