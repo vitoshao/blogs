@@ -129,12 +129,12 @@ public class Teacher
 
 ## 表格
 
-| Id | CourseId | Name | Description |
-|----|----------|------|-------------|
-| 1  | 1        | C# 基礎 | C# 基礎課程 |
-| 2  | 1        | C# 進階 | C# 進階課程 |
-| 3  | 2        | SQL 基礎 | SQL 基礎課程 |
-| 4  | 2        | SQL 進階 | SQL 進階課程 |
+| Id  | CourseId | Name   | Description |
+| --- | -------- | ------ | ----------- |
+| 1   | 1        | C# 基礎  | C# 基礎課程     |
+| 2   | 1        | C# 進階  | C# 進階課程     |
+| 3   | 2        | SQL 基礎 | SQL 基礎課程    |
+| 4   | 2        | SQL 進階 | SQL 進階課程    |
 
 ## 內嵌 html 語法
 
