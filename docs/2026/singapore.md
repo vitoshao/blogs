@@ -117,7 +117,7 @@ date: 2026-9-11
 		<td width="200"><span style='color: blue;'>竹腳中心</span><br>
 		小印度區綜合市場，一樓美食，二樓印度風服飾。
 		</td>
-		<td><img src='../images/TekkaCentre.jpg' width="200" /></span><br>
+		<td><img src='../images/TekkaCentre.jpg' width="200" /><br>
 	</tr>
 	<tr>
 		<td><span style='color: blue;'>甘貝爾巷</span><br>
