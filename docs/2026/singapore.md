@@ -117,7 +117,7 @@ date: 2026-9-11
 		<td width="200"><span style='color: blue;'>竹腳中心</span><br>
 		小印度區綜合市場，一樓美食，二樓印度風服飾。
 		</td>
-		<td><img src='../images/TekkaCentre.jpg' width="200" />
+		<td><img src='../images/TekkaCentre.jpg' width="200" /></td>
 	</tr>
 	<tr>
 		<td><span style='color: blue;'>甘貝爾巷</span><br>
@@ -162,11 +162,11 @@ date: 2026-9-11
 		<td><img src='../images/讚美廣場.jpg' width="200" /></td>
 	</tr>
 	<tr>
-		<td><span style='color: blue;'>福康寧公園</span><br>
+		<td><span style='color: blue;'>福康寧公園</span></td>
 		<td><img src='../images/福康寧公園.png' width="200" /></td>
 	</tr>
 	<tr>
-		<td><span style='color: blue;'>克拉碼頭</span><br>
+		<td><span style='color: blue;'>克拉碼頭</span></td>
 		<td><img src='../images/克拉碼頭.png' width="200" /></td>
 	</tr>
 </table>
