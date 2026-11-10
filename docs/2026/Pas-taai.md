@@ -17,7 +17,7 @@ date: 2026-11-09
 
 ### 11/22 (日)
 - 上午：南庄老街 or 蓬萊溪護魚步道
-- 下午：三角湖山、向天湖山、光天高山  (<a target="_blank" href="https://www.google.com/maps/d/u/0/edit?hl=zh-TW&mid=1jXSyT0O0oBOnnV0ic3HlKihXGcM0PW0&ll=24.576616954127463%2C121.04295562874178&z=15">登山路線圖</a>)
+- 下午：三角湖山、向天湖山、光天高山 (O型,全程約7.8K,<a target="_blank" href="https://www.google.com/maps/d/u/0/edit?hl=zh-TW&mid=1jXSyT0O0oBOnnV0ic3HlKihXGcM0PW0&ll=24.576616954127463%2C121.04295562874178&z=15">登山路線圖</a>) 
 - 晚上：矮靈祭
 - 睡帳篷或回寶山
 
@@ -25,6 +25,7 @@ date: 2026-11-09
 - 新竹城隍廟
 - 北埔老街
 - 新城風糖園區
+- ...
  
 {: .note-title}
 >注意事項
